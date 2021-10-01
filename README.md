@@ -1,2 +1,2 @@
 # Project_Cyclist
-This is the case study from the Google data analysis professional qualification certificate. 
+This is the capstone project from the Google data analysis professional qualification certificate!
