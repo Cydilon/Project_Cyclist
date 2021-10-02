@@ -1,0 +1,20 @@
+# Ask
+
+## Guiding questions
+1. What is the problem you are trying to solve?
+* *Find differences betweeen annual member and casual rider and possible marketing strategies to turn casual riders into annual members.* 
+
+2. How can your insights drive business decisions?
+* *Insights can help the marketing team to develop suitable strategies to increase annual member.*
+
+## Key tasks and Deliverable
+1. Identify the business task
+* *Collect and analyze the data of Cyclistic and finding trends and relationships between annual member and casual riders.*
+
+2. Consider key stakeholders
+* *The marketing team*
+* *Lily Moreno, the director of marketing and manager*
+* *Casual and member riders*
+
+3. A clear statement of the business task
+* *Finding the key differences between casual and members and how digital media can influence their decisions. 
